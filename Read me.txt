@@ -1,0 +1,9 @@
+Capstone_V is the main file of the program 
+
+It uses log_in.py file to validate log in details 
+
+The User Name is : admin and Password is: Admin (case sensitive)
+
+If you need to change them or add new users this can be done from log_in.py file 
+
+The program it only allow one user to use the database at the moment. This can be changed from log_in.py if needed to. 
